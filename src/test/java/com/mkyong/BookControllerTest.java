@@ -28,6 +28,7 @@ import static org.springframework.test.web.servlet.request.MockMvcRequestBuilder
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 //@WebMvcTest(BookController.class)
+//Commented for auto deployment
 @RunWith(SpringRunner.class)
 @SpringBootTest
 @AutoConfigureMockMvc
