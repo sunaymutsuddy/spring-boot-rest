@@ -1,4 +1,4 @@
-package com.mkyong;
+package com.sunay.api.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

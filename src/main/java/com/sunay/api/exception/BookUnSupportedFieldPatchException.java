@@ -1,4 +1,4 @@
-package com.mkyong.error;
+package com.sunay.api.exception;
 
 import java.util.Set;
 

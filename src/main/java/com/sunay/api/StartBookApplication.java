@@ -1,5 +1,7 @@
-package com.mkyong;
+package com.sunay.api;
 
+import com.sunay.api.model.Book;
+import com.sunay.api.repository.BookRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

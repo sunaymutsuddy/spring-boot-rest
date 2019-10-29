@@ -1,7 +1,9 @@
-package com.mkyong;
+package com.sunay.api;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.sunay.api.model.Book;
+import com.sunay.api.repository.BookRepository;
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;
